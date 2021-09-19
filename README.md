@@ -2,7 +2,7 @@
 - 👀 I’m interested in master frontend development
 - 🌱 I’m currently learning web security and NestJS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My contact number is +8801626065474 and I can be found on UpWork at https://www.upwork.com/o/profiles/users/~01433ccdb0a7e4bbde/
 
 <!---
 nrubel/nrubel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
